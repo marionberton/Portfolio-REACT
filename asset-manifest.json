@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/marionberton/Portfolio-REACT.git/static/css/main.4e557236.chunk.css",
-    "main.js": "/marionberton/Portfolio-REACT.git/static/js/main.9c72f09c.chunk.js",
-    "main.js.map": "/marionberton/Portfolio-REACT.git/static/js/main.9c72f09c.chunk.js.map",
-    "runtime-main.js": "/marionberton/Portfolio-REACT.git/static/js/runtime-main.fcfbab0b.js",
-    "runtime-main.js.map": "/marionberton/Portfolio-REACT.git/static/js/runtime-main.fcfbab0b.js.map",
-    "static/js/2.44385c03.chunk.js": "/marionberton/Portfolio-REACT.git/static/js/2.44385c03.chunk.js",
-    "static/js/2.44385c03.chunk.js.map": "/marionberton/Portfolio-REACT.git/static/js/2.44385c03.chunk.js.map",
-    "index.html": "/marionberton/Portfolio-REACT.git/index.html",
-    "precache-manifest.ffb007100f78a1114f20ebe4a93fac2b.js": "/marionberton/Portfolio-REACT.git/precache-manifest.ffb007100f78a1114f20ebe4a93fac2b.js",
-    "service-worker.js": "/marionberton/Portfolio-REACT.git/service-worker.js",
-    "static/css/main.4e557236.chunk.css.map": "/marionberton/Portfolio-REACT.git/static/css/main.4e557236.chunk.css.map",
-    "static/js/2.44385c03.chunk.js.LICENSE": "/marionberton/Portfolio-REACT.git/static/js/2.44385c03.chunk.js.LICENSE"
+    "main.css": "/my-app/static/css/main.4e557236.chunk.css",
+    "main.js": "/my-app/static/js/main.36098f10.chunk.js",
+    "main.js.map": "/my-app/static/js/main.36098f10.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.467216da.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.467216da.js.map",
+    "static/js/2.44385c03.chunk.js": "/my-app/static/js/2.44385c03.chunk.js",
+    "static/js/2.44385c03.chunk.js.map": "/my-app/static/js/2.44385c03.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.4426abf595babf26085cc2f5940b4991.js": "/my-app/precache-manifest.4426abf595babf26085cc2f5940b4991.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.4e557236.chunk.css.map": "/my-app/static/css/main.4e557236.chunk.css.map",
+    "static/js/2.44385c03.chunk.js.LICENSE": "/my-app/static/js/2.44385c03.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcfbab0b.js",
+    "static/js/runtime-main.467216da.js",
     "static/js/2.44385c03.chunk.js",
     "static/css/main.4e557236.chunk.css",
-    "static/js/main.9c72f09c.chunk.js"
+    "static/js/main.36098f10.chunk.js"
   ]
 }
