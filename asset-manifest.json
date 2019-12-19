@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marionberton/Portfolio-REACT.git/static/css/main.4e557236.chunk.css",
+    "main.js": "/marionberton/Portfolio-REACT.git/static/js/main.9c72f09c.chunk.js",
+    "main.js.map": "/marionberton/Portfolio-REACT.git/static/js/main.9c72f09c.chunk.js.map",
+    "runtime-main.js": "/marionberton/Portfolio-REACT.git/static/js/runtime-main.fcfbab0b.js",
+    "runtime-main.js.map": "/marionberton/Portfolio-REACT.git/static/js/runtime-main.fcfbab0b.js.map",
+    "static/js/2.44385c03.chunk.js": "/marionberton/Portfolio-REACT.git/static/js/2.44385c03.chunk.js",
+    "static/js/2.44385c03.chunk.js.map": "/marionberton/Portfolio-REACT.git/static/js/2.44385c03.chunk.js.map",
+    "index.html": "/marionberton/Portfolio-REACT.git/index.html",
+    "precache-manifest.ffb007100f78a1114f20ebe4a93fac2b.js": "/marionberton/Portfolio-REACT.git/precache-manifest.ffb007100f78a1114f20ebe4a93fac2b.js",
+    "service-worker.js": "/marionberton/Portfolio-REACT.git/service-worker.js",
+    "static/css/main.4e557236.chunk.css.map": "/marionberton/Portfolio-REACT.git/static/css/main.4e557236.chunk.css.map",
+    "static/js/2.44385c03.chunk.js.LICENSE": "/marionberton/Portfolio-REACT.git/static/js/2.44385c03.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcfbab0b.js",
+    "static/js/2.44385c03.chunk.js",
+    "static/css/main.4e557236.chunk.css",
+    "static/js/main.9c72f09c.chunk.js"
+  ]
+}
